@@ -39,8 +39,8 @@ width: 600px;
 padding-top: 20px;
 }
 .header-pic{
-    height: 600px;
-    width: 400px;
+    height: 500px;
+    width: 450px;
 }
 /* featured flower style  */
 .featured-content{
@@ -57,7 +57,7 @@ padding-top: 20px;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 10px;
+    
 }
 .flower-image1{
     background-color: #fa98ad;
@@ -65,7 +65,6 @@ padding-top: 20px;
     width: 300px;
     margin: 20px;
     clip-path: ellipse(65% 50% at 50% 50%);
-    
 }
 .flower-image3{
     background-color: #A7216226;
@@ -89,8 +88,9 @@ padding-top: 20px;
     align-items: center;
     background-color: #E554731A;
 }
+/* instagram styles */
 .instagram-content{
-text-align: center;
+    text-align: center;
 }
 .instagram-image{
     display: flex;
@@ -99,6 +99,21 @@ text-align: center;
 }
 .img{
     height: 196px;
-    width: auto;
-    padding-right:20px;
+    margin: 20px; 
+}
+.deals-section{
+    margin-top: 300px;
+    text-align: center;
+    background-image: url("flower-shop-assignment-main/Flower Asset/Rectangle 9.png");
+    height: 450px; 
+    width: 1350px;
+    background-repeat: no-repeat;
+}
+.get-heading{
+    padding-top: 150px;
+    padding-bottom: 20px}
+.input-email{
+    padding-top: 3px;
+    height: 40px;
+    width: 700px;    
 }
