@@ -67,7 +67,7 @@ padding-top: 20px;
     clip-path: ellipse(65% 50% at 50% 50%);
     
 }
-.flower-image1{
+.flower-image3{
     background-color: #A7216226;
     height: 500px;
     width: 300px;
@@ -88,5 +88,17 @@ padding-top: 20px;
     padding: 100px 150px;
     align-items: center;
     background-color: #E554731A;
-    margin-top: 0px;
+}
+.instagram-content{
+text-align: center;
+}
+.instagram-image{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.img{
+    height: 196px;
+    width: auto;
+    padding-right:20px;
 }
