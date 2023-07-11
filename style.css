@@ -81,3 +81,12 @@ padding-top: 20px;
     margin: 20px;
     clip-path: ellipse(65% 50% at 50% 50%);
 }
+/* Hot deal section styles */
+    .hot-deal-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 150px;
+    align-items: center;
+    background-color: #E554731A;
+    margin-top: 0px;
+}
